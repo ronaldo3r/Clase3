@@ -14,6 +14,8 @@ public class Profile extends AppCompatActivity {
     private RelativeLayout root_profile;
     private Button btn_salir_profile;
 
+    //Implementar el metodo de abajo en funciones landa
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
